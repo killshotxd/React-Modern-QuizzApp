@@ -2,7 +2,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 90vh;
+  height: 100vh;
 }
 
 .text__center {
@@ -19,7 +19,7 @@
 }
 
 .text__center h2 {
-  font-size: 1.1rem;
+  font-size: 1rem;
   color: rgb(234, 216, 216);
 }
 
