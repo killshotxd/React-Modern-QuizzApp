@@ -1,4 +1,3 @@
-import "./App.css";
 import Home from "./pages/Home";
 import QuizSelectionPage from "./pages/QuizSelectionPage";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
