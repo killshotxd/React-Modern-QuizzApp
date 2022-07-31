@@ -2,7 +2,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  height: 90vh;
 }
 
 .text__center {
@@ -11,11 +11,16 @@
 }
 
 .text__center h1 {
-  font-size: 1.8rem;
+  font-size: 1.7rem;
+}
+
+.text__center h1 span {
+  color: #fff;
 }
 
 .text__center h2 {
-  font-size: 1rem;
+  font-size: 1.1rem;
+  color: rgb(234, 216, 216);
 }
 
 /* BUtton */

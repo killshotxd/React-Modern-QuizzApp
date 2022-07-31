@@ -9,7 +9,9 @@ const Home = () => {
     <div className="center__div">
       <div className="text__center">
         <Slide left>
-          <h1>Welcome to Quizzer</h1>
+          <h1>
+            Welcome to &nbsp;<span>Quizzer App 🚀</span>
+          </h1>
         </Slide>
         <Slide right>
           <h2>Take Quizzes in our Quizzer App and level up your skills</h2>
