@@ -12,6 +12,7 @@
 
 .text__center h1 {
   font-size: 1.7rem;
+  padding: 2rem;
 }
 
 .text__center h1 span {
@@ -21,6 +22,7 @@
 .text__center h2 {
   font-size: 1rem;
   color: rgb(234, 216, 216);
+  padding: 2rem;
 }
 
 /* BUtton */
