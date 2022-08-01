@@ -31,12 +31,13 @@
 
 button {
   background: #563636;
-  border: none;
-  border-radius: 2rem;
+  border: dotted;
+  border-radius: 1rem;
   height: 2rem;
   cursor: pointer;
   font-weight: bold;
   color: wheat;
+  font-size: 1rem;
 }
 
 button:hover {
@@ -58,4 +59,10 @@ button:hover {
   display: flex;
   color: wheat;
   text-decoration: none;
+}
+
+@media screen and (max-width: 390px) {
+  .score-section {
+    font-size: 1rem;
+  }
 }

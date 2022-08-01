@@ -30,3 +30,9 @@
 .react-reveal {
   padding: 0;
 }
+
+@media screen and (max-width: 480) {
+  .center-div h1 {
+    font-size: 1rem;
+  }
+}
