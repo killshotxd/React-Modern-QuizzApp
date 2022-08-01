@@ -31,9 +31,9 @@
 
 button {
   background: #563636;
-  border: dotted;
+  border: none;
   border-radius: 1rem;
-  height: 2rem;
+  height: 5rem;
   cursor: pointer;
   font-weight: bold;
   color: wheat;
