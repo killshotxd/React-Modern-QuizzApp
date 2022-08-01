@@ -1,0 +1,27 @@
+.center-div h1 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.4rem;
+  margin-top: 5rem;
+}
+
+.center-div h1 span {
+  color: wheat;
+}
+
+.btnDIV {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 2rem;
+  height: 80vh;
+}
+
+.btnDIV a {
+  text-decoration: none;
+  font-weight: 700;
+  width: 15rem;
+  text-align: center;
+}

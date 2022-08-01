@@ -13,7 +13,6 @@ function App() {
         <Route path="/QuizSelectionPage" element={<QuizSelectionPage />} />
         <Route path="/QuizHTML" element={<QuizHTML />} />
         <Route path="/QuizCSS" element={<QuizCSS />} />
-
         <Route path="/QuizJS" element={<QuizJS />} />
       </Routes>
     </BrowserRouter>
