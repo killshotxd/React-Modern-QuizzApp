@@ -4,7 +4,6 @@ import "./QuizSelectionPage.css";
 import HeadShake from "react-reveal/HeadShake";
 import Fade from "react-reveal/Fade";
 import Flash from "react-reveal/Flash";
-import { Zoom } from "react-reveal";
 
 const QuizSelectionPage = () => {
   return (
