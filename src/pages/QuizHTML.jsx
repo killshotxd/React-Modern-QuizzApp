@@ -1,6 +1,6 @@
 import React from "react";
 import { useState } from "react";
-import { questions } from "../components/QuizAPI";
+import { questions } from "../components/QuizHTMLAPI";
 import "./QuizHTML.css";
 import { Link } from "react-router-dom";
 

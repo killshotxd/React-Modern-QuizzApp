@@ -38,6 +38,7 @@ button {
   font-weight: bold;
   color: wheat;
   font-size: 1rem;
+  width: -webkit-fill-available;
 }
 
 button:hover {

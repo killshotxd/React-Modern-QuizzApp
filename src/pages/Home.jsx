@@ -22,6 +22,8 @@ const Home = () => {
           </Link>
         </Zoom>
       </div>
+
+      <p>Made with 🤍 by Mohd Hassan</p>
     </div>
   );
 };
